@@ -1,3 +1,14 @@
+types.leaflet.heat
+==========
+
+
+Contains de types defininition for the leaflet.heat module.
+You just need to :
+```js
+import 'leaflet.heat';
+```
+to use it. The types definition are not actually completed (juste used "any" everywhere so it could be used as an es6 module for convenience)
+
 Leaflet.heat
 ==========
 
