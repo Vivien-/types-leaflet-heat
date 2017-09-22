@@ -1,5 +1,5 @@
 {
-  "name": "types.leaflet.heat",
+  "name": "@types/leaflet.heat",
   "version": "1.0.0",
   "description": "Typescript definitions for leaflet.heat",
   "main": "index.js",
